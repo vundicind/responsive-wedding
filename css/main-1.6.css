@@ -253,15 +253,15 @@ body {
     font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     color: #fff;
     text-align: center;
-
 }
 
 #bg-image {
     position: fixed; 
-    top: -50%; 
+    top: -2%;
     left: -50%; 
     width: 200%; 
     height: 200%;
+    background: #090b0a;
 }
 #bg-image img {
     position: absolute; 
@@ -270,7 +270,7 @@ body {
     right: 0; 
     bottom: 0; 
     margin: auto; 
-    min-width: 50%;
+    min-width: 20%;
     min-height: 50%;
 }
 
